@@ -1,0 +1,1727 @@
+{
+    "restaurants":[{
+            "info": {
+                "id": "482799",
+                "name": "Pabbas Ideal Cafe",
+                "cloudinaryImageId": "h7vsiufnggqedpmru3r8",
+                "locality": "Bejai Main Road",
+                "areaName": "Lalbagh",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Chinese",
+                    "South Indian",
+                    "Burgers",
+                    "Ice Cream",
+                    "Pizzas"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "482799",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "290157",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 20,
+                    "lastMileTravel": 2.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20 mins",
+                    "lastMileTravelString": "2.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 22:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/pabbas-ideal-cafe-bejai-main-road-lalbagh-mangaluru-482799",
+                "type": "WEBLINK"
+            }
+    },
+        {
+            "info": {
+                "id": "242064",
+                "name": "Mangalore Donne Biryani",
+                "cloudinaryImageId": "soymzzzl5a4k8pbusuno",
+                "locality": "Bejai road",
+                "areaName": "Lalbagh",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Biryani"
+                ],
+                "avgRating": 4.3,
+                "feeDetails": {
+                    "restaurantId": "242064",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "12369",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 17,
+                    "lastMileTravel": 2.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "17 mins",
+                    "lastMileTravelString": "2.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 16:15:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹399",
+                    "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/mangalore-donne-biryani-bejai-road-lalbagh-mangaluru-242064",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "364047",
+                "name": "Dinki Dine",
+                "cloudinaryImageId": "j2wfv2jca1p3rqifbxz0",
+                "locality": "kadri park road",
+                "areaName": "Kadri",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Ice Cream",
+                    "Biryani"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "364047",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "73210",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 14,
+                    "lastMileTravel": 0.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "14 mins",
+                    "lastMileTravelString": "0.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 22:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/dinki-dine-park-road-kadri-mangaluru-364047",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "365937",
+                "name": "Vanas",
+                "cloudinaryImageId": "et7unyrerq88bfli6ajn",
+                "locality": "Kadri Road",
+                "areaName": "Mallikatte",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Chinese",
+                    "North Indian",
+                    "Biryani"
+                ],
+                "avgRating": 4.3,
+                "feeDetails": {
+                    "restaurantId": "365937",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "221254",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 1.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15 mins",
+                    "lastMileTravelString": "1.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 15:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/vanas-kadri-road-mallikatte-mangaluru-365937",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "536957",
+                "name": "Kudla Donne Biryani",
+                "cloudinaryImageId": "mkinshcapd0b9vtophl0",
+                "locality": "Bunder Road",
+                "areaName": "Bhavathi",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Biryani"
+                ],
+                "avgRating": 4.3,
+                "feeDetails": {
+                    "restaurantId": "536957",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 2400
+                },
+                "parentId": "322817",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "23 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 16:29:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹399",
+                    "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/kudla-donne-biryani-bunder-road-bhavathi-mangaluru-536957",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "97713",
+                "name": "Ideal Cafe",
+                "cloudinaryImageId": "wlmsgntdtaqpb1l9q6pc",
+                "locality": "GT Road",
+                "areaName": "Hampankatta",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Pastas",
+                    "Desserts",
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Burgers",
+                    "Ice Cream",
+                    "Pizzas",
+                    "Biryani"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "97713",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "12474",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "24 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 22:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/ideal-cafe-gt-road-hampankatta-mangaluru-97713",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "76609",
+                "name": "Pabbas",
+                "cloudinaryImageId": "v1qn6rdgridfthdhtfhz",
+                "locality": "Mg Road",
+                "areaName": "Lalbagh",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Chinese",
+                    "Burgers",
+                    "Ice Cream",
+                    "Pizzas"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "76609",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2300
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 2300
+                },
+                "parentId": "15828",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "23 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 21:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/pabbas-mg-road-lalbagh-mangaluru-76609",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "255750",
+                "name": "Hotel Thammana",
+                "cloudinaryImageId": "ea76w0y2rtwkped32dto",
+                "locality": "Navabharath Circle City",
+                "areaName": "Kodailbail",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Ice Cream",
+                    "Biryani"
+                ],
+                "avgRating": 3.7,
+                "feeDetails": {
+                    "restaurantId": "255750",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "103023",
+                "avgRatingString": "3.7",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 2.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "19 mins",
+                    "lastMileTravelString": "2.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 16:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "OnlyOnSwiggy",
+                                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹100 OFF",
+                    "subHeader": "ABOVE ₹249",
+                    "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/hotel-thammana-navabharath-circle-city-kodailbail-mangaluru-255750",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "105420",
+                "name": "Cochin Village Restaurant",
+                "cloudinaryImageId": "5041a738c88c175d53cf688930fcee6e",
+                "locality": "Bypass Rpad",
+                "areaName": "Kankanady",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Biryani"
+                ],
+                "avgRating": 4.3,
+                "feeDetails": {
+                    "restaurantId": "105420",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "15715",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 18,
+                    "lastMileTravel": 2.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "18 mins",
+                    "lastMileTravelString": "2.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 21:28:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/cochin-village-restaurant-bypass-rpad-kankanady-mangaluru-105420",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "392754",
+                "name": "Pai Tiffins",
+                "cloudinaryImageId": "noezwghfkmx4pq6oyqbx",
+                "locality": "Bunder Road",
+                "areaName": "Kodailbail",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Ice Cream",
+                    "Pizzas",
+                    "Biryani"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "392754",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "12488",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "21 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 22:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "OnlyOnSwiggy",
+                                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/pai-tiffins-bunder-road-kodailbail-mangaluru-392754",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "458336",
+                "name": "Sai Palace Udipi Cafe Veg",
+                "cloudinaryImageId": "bnmbixown8g34zeepl04",
+                "locality": "K S Road",
+                "areaName": "Hampankatta",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Pastas",
+                    "Desserts",
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Ice Cream",
+                    "Pizzas",
+                    "Biryani"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "458336",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "274661",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "24 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 23:20:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/sai-palace-udipi-cafe-veg-k-s-road-hampankatta-mangaluru-458336",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "746188",
+                "name": "The Pasta Co.",
+                "cloudinaryImageId": "6c3da10de44d1ce7a94db97a63b940dd",
+                "locality": "Kadri Village",
+                "areaName": "Lalbagh",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Pastas",
+                    "American",
+                    "Continental",
+                    "Italian"
+                ],
+                "avgRating": 4.3,
+                "feeDetails": {
+                    "restaurantId": "746188",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "443282",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "26 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-05 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "OnlyOnSwiggy",
+                                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/the-pasta-co-kadri-village-lalbagh-mangaluru-746188",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "80757",
+                "name": "Chicken Fantasy Hot & Spicy",
+                "cloudinaryImageId": "ggdgxq8ewmlxn0nnbxmi",
+                "locality": "Kapikad Road",
+                "areaName": "Kapikad",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Chinese",
+                    "North Indian",
+                    "Biryani"
+                ],
+                "avgRating": 4.1,
+                "feeDetails": {
+                    "restaurantId": "80757",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 2400
+                },
+                "parentId": "12805",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 16,
+                    "lastMileTravel": 2.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "16 mins",
+                    "lastMileTravelString": "2.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 23:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "OnlyOnSwiggy",
+                                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹249",
+                    "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/chicken-fantasy-hot-and-spicy-road-kapikad-mangaluru-80757",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "112297",
+                "name": "Chutney- Deepa comforts",
+                "cloudinaryImageId": "zzdyizru7smwe93yqgha",
+                "locality": "Mg Road",
+                "areaName": "Hotel Deepa Comforts",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Pastas",
+                    "Desserts",
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Ice Cream",
+                    "Pizzas",
+                    "Biryani"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "112297",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "8074",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 2.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "23 mins",
+                    "lastMileTravelString": "2.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 22:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/chutney-deepa-comforts-mg-road-hotel-deepa-comforts-mangaluru-112297",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "79837",
+                "name": "Kairali Adukkala",
+                "cloudinaryImageId": "lsdgs0ntddlrhl8hafzd",
+                "locality": "Father Muller's Road",
+                "areaName": "Kankanady",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Ice Cream",
+                    "Biryani"
+                ],
+                "avgRating": 4.1,
+                "feeDetails": {
+                    "restaurantId": "79837",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "15800",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 20,
+                    "lastMileTravel": 2.3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20 mins",
+                    "lastMileTravelString": "2.3 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 22:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/kairali-adukkala-father-mullers-road-kankanady-mangaluru-79837",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "651248",
+                "name": "Gobble: Pastas & Burgers",
+                "cloudinaryImageId": "df5118be546e687f45758da0433a1649",
+                "locality": "Balmatta Road",
+                "areaName": "Lalbagh",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Burgers",
+                    "Pastas",
+                    "American",
+                    "Continental",
+                    "Snacks"
+                ],
+                "avgRating": 4.1,
+                "feeDetails": {
+                    "restaurantId": "651248",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "391931",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-05 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "OnlyOnSwiggy",
+                                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/gobble-pastas-and-burgers-balmatta-road-lalbagh-mangaluru-651248",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "651142",
+                "name": "Istah Shawarmas",
+                "cloudinaryImageId": "b1a02a44f50f6d003aa796ad808a6b75",
+                "locality": "Kadri Road",
+                "areaName": "Lalbagh",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Mediterranean",
+                    "Snacks",
+                    "Biryani",
+                    "Grill",
+                    "Kebabs",
+                    "Arabian",
+                    "Lebanese",
+                    "Beverages",
+                    "Desserts",
+                    "Italian",
+                    "Turkish"
+                ],
+                "avgRating": 4.1,
+                "feeDetails": {
+                    "restaurantId": "651142",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 1500
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 1500
+                },
+                "parentId": "468195",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "26 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-05 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "OnlyOnSwiggy",
+                                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/istah-shawarmas-kadri-road-lalbagh-mangaluru-651142",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "456980",
+                "name": "Naturals Just Sundaes",
+                "cloudinaryImageId": "c4kfdpyew7keihrk84no",
+                "locality": "Yamuna Garden",
+                "areaName": "Kodailbail",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Ice Cream"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "feeDetails": {
+                    "restaurantId": "456980",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2300
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 2300
+                },
+                "parentId": "274147",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 17,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "17 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/naturals-just-sundaes-yamuna-garden-kodailbail-mangaluru-456980",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "210245",
+                "name": "Pizza Hut",
+                "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+                "locality": "Shiv Baug",
+                "areaName": "Kadri",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Pizzas"
+                ],
+                "avgRating": 4.1,
+                "feeDetails": {
+                    "restaurantId": "210245",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 2400
+                },
+                "parentId": "721",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 1.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "19 mins",
+                    "lastMileTravelString": "1.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-05 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "FREE ITEM"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/pizza-hut-shiv-baug-kadri-mangaluru-210245",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "95867",
+                "name": "Hotel Chicken Hut",
+                "cloudinaryImageId": "rb8l5709bvtdokqoo0v1",
+                "locality": "Father Mullers road",
+                "areaName": "Kankanady",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Chinese",
+                    "North Indian",
+                    "South Indian",
+                    "Ice Cream",
+                    "Biryani"
+                ],
+                "avgRating": 3.8,
+                "feeDetails": {
+                    "restaurantId": "95867",
+                    "fees": [
+                        {
+                            "name": "BASE_DISTANCE",
+                            "fee": 2400
+                        },
+                        {
+                            "name": "BASE_TIME"
+                        },
+                        {
+                            "name": "ANCILLARY_SURGE_FEE"
+                        }
+                    ],
+                    "totalFee": 2400
+                },
+                "parentId": "8093",
+                "avgRatingString": "3.8",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 27,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "27 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2023-12-04 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹175 OFF",
+                    "subHeader": "ABOVE ₹399",
+                    "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+                "link": "https://www.swiggy.com/restaurants/hotel-chicken-hut-father-mullers-road-kankanady-mangaluru-95867",
+                "type": "WEBLINK"
+            }
+        }]
+}
