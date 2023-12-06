@@ -1,0 +1,160 @@
+.app {
+
+}
+
+.body {
+    padding: 0 5rem;
+    background-color: antiquewhite;
+}
+
+.header {
+ display: flex;
+ justify-content: space-between;
+ background-color: moccasin;
+ padding: 0.5rem 0.5rem 0;
+ border-radius: 2%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 0.5rem 0.5rem 0;
+    border-radius: 2%;
+   }
+
+.logo-container {
+    margin-bottom: 0.4rem;
+}
+
+.main-logo {
+ height: 100px;
+ width: 100px;
+}
+
+.nav > ul {
+list-style: none;
+display: flex;
+}
+
+.nav > ul > li {
+    font-size: 1.5rem;
+    padding: 0.5em
+}
+
+.nav > ul > li > a {
+    text-decoration: none;
+}
+
+.restaurant-info {
+    padding: 0.3rem 1rem;
+}
+
+.restaurant-logo {
+    text-align: center;
+}
+
+.restaurant-logo > img {
+    width: 14rem;
+    height: 13rem;
+}
+
+.restaurant-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.restaurant-card {
+    display: inline-block;
+    padding: 0 0.3rem 0.3rem 0.7rem;
+    width:250px;
+    margin: 1rem;
+    background-color: black;
+    border-radius: 5%;
+}
+
+.restaurant-name {
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.restaurant-rating {
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    color: gold;
+}
+  
+  .restaurant-rating img {
+    margin-right: 0.3rem; /* Adjust the margin between the image and text */
+  }
+
+.restaurant-cuisines{
+    font-size: 0.8rem;
+    color: lightgray;
+    max-width: 14rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.restaurant-costForTwo {
+    font-size: 0.8rem;
+    color: #777;
+}
+
+.search-container {
+}
+
+.toolbar {  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 3rem;
+}
+
+.search-input {
+    width: 300px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px 0 0 10px;
+    font-size: 16px;
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0rem 1rem 2rem
+  }
+
+  .search-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 0 10px 10px 0;
+    cursor: pointer;
+    font-size: 16px;
+    outline: none;
+  }
+
+.filter-button {
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 30px;
+    outline: none;
+    padding: 0.3rem 1rem;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+.filter-button:hover {
+  transform: scale(1.1);
+}
+      
+.top-rated-button:hover {
+    background-color: #007BFF; /* Background color on hover */
+    color: #fff; /* Text color on hover */
+}
+
+
