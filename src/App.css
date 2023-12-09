@@ -146,6 +146,7 @@ display: flex;
     padding: 0.3rem 1rem;
     font-size: 16px;
     transition: all 0.3s ease-in-out;
+    margin-right: 0.5rem;
 }
 
 .filter-button:hover {
@@ -156,5 +157,29 @@ display: flex;
     background-color: #007BFF; /* Background color on hover */
     color: #fff; /* Text color on hover */
 }
+
+
+/* shimmer */
+.shimmer-card {
+    display: inline-block;
+    padding: 0 0.3rem 0.3rem 0.7rem;
+    width: 250px;
+    height: 281px;
+    margin: 1rem;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 400% 100%;
+  animation: shimmerAnimation 1.5s infinite linear;
+  border-radius: 5%;
+}
+
+@keyframes shimmerAnimation {
+  0% {
+    background-position: 100% 0;
+  }
+  100% {
+    background-position: -100% 0;
+  }
+}
+  
 
 
