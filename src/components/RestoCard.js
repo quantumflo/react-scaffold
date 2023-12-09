@@ -6,9 +6,6 @@ const RestoCard = (props) => {
       info: { name, avgRating, cloudinaryImageId, cuisines, costForTwo },
     },
   } = props;
-
-  props.restaurant.info.a = 100;
-
   return (
     <div className="restaurant-card">
       <div className="restaurant-logo">
