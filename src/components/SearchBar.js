@@ -1,4 +1,8 @@
-const SearchBar = ({topRatedRestos, clear }) => {
+import { useState } from "react";
+
+
+const SearchBar = ({topRatedRestos, filteredRestos, clear }) => {
+  const [searchString, setSearchString] = useState("");
   return (
     <div className="toolbar">
       <div className="search-container">
@@ -6,8 +10,10 @@ const SearchBar = ({topRatedRestos, clear }) => {
           className="search-input"
           type="text"
           placeholder="Search Restaurants"
+          value={searchString}
+          onChange={((e)=> setSearchString(e.target.value.toLowerCase()))}
         />
-        <button className="search-button">Search</button>
+        <button onClick={()=> filteredRestos(searchString) } className="search-button">Search</button>
       </div>
       <div className="filter-container">
         <button className="filter-button" onClick={()=>{topRatedRestos()} }>Top Rated</button>

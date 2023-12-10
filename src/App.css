@@ -180,6 +180,39 @@ display: flex;
     background-position: -100% 0;
   }
 }
+
+.session-btn {
+  border-radius: 0.7rem;
+  margin: 0.7rem 0 0 0.5rem;
+  font-weight: 600;
+  height: 2rem;
+  padding: 0 1rem;
+  font-size: larger;
+  background: seashell;
+}
+
+.login-btn {
+  display: inline-block;
+  margin: 0 2rem 0 0.5rem;
+  font-weight: 600;
+  padding: 0 1rem;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid #3498db;
+  border-radius: 5px;
+  color: #3498db;
+  background-color: #ffffff;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+/* Hover effect */
+.login-btn:hover {
+  background-color: #3498db;
+  color: #ffffff;
+  border-color: #ffffff;
+}
   
 
 

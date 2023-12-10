@@ -29,6 +29,13 @@ const Body = () => {
     setRestaurants(filteredRestos);
   };
 
+  const filteredRestos = (searchString) => {
+    const filteredRestos = restaurants.filter((restaurant) =>
+      restaurant.info.name.toLowerCase().includes(searchString)
+    );
+    setRestaurants(filteredRestos);
+  }
+  
   const clearAllFilters = () => {
     fetchSwiggyRestaurants();
   };
@@ -37,6 +44,7 @@ const Body = () => {
     <div className="body">
       <SearchBar
         topRatedRestos={topRatedRestosFilter}
+        filteredRestos={filteredRestos}
         clear={clearAllFilters}
       />
       {restaurants.length ? (
