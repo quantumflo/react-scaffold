@@ -1,23 +1,7 @@
-import { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
-import { SWIGGY_MENU_API, CORSPROXY } from "../utils/constants";
+import  useRestaurantMenu from "../utils/hooks/useRestaurantMenu";
 
 const RestoMenu = () => {
-  const [restoInfo, setRestoInfo] = useState([]);
-  const { resId } = useParams();
-  console.log(useParams())
-
-  useEffect(() => {
-    fetchMenu();
-  }, []);
-
-  const fetchMenu = async () => {
-    const data = await fetch( `${CORSPROXY}${SWIGGY_MENU_API}${resId}` );
-
-    const jsonData = await data.json();
-    setRestoInfo(jsonData?.data || []);
-  };
-
+  const restoInfo = useRestaurantMenu();
   const { name, cuisines, costForTwoMessage } = restoInfo?.cards?.[0]?.card.card.info || {};
   const { itemCards } = restoInfo?.cards?.[2]?.groupedCard?.cardGroupMap?.REGULAR?.cards?.[1]?.card?.card || [];
 
