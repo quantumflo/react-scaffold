@@ -4,6 +4,7 @@ import { CORSPROXY, SWIGGY_API } from "../utils/constants";
 import RestoCard from "./RestoCard";
 import SearchBar from "./SearchBar";
 import Shimmer from "./Shimmer";
+import useOnlineStatus from "../utils/hooks/useOnlineStatus";
 
 
 const Body = () => {
@@ -45,6 +46,12 @@ const Body = () => {
   const clearAllFilters = () => {
     setfilteredRestaurants(restaurants);
   };
+
+  const isOnline = useOnlineStatus();
+
+  if( !isOnline ) {
+    return <div className="offline"><h1>You are offline. Please check your internet connection</h1></div>
+  }
 
   return (
     <div className="body">
