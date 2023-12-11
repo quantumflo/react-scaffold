@@ -1,15 +1,14 @@
 import React from 'react';
 import '../App.css';
 import Header from './Header';
-import Body from './Body';
 import Footer from './Footer';
-
+import { Outlet } from 'react-router-dom';
 const App = () => {
   return (
     <div className='app'>
       <Header />
-      <Body />
-      <Footer />
+      <Outlet />
+      <Footer test="first"/>
     </div>
   );
 }

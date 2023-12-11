@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import restoData from "../utils/data/restaurant.json";
-import { CORSPROXY, SWIGGYAPI } from "../utils/constants";
+import { CORSPROXY, SWIGGY_API } from "../utils/constants";
 import RestoCard from "./RestoCard";
 import SearchBar from "./SearchBar";
 import Shimmer from "./Shimmer";
@@ -18,7 +18,7 @@ const Body = () => {
 
   const fetchSwiggyRestaurants = async () => {
     const data = await fetch(
-      `${CORSPROXY}${SWIGGYAPI}`
+      `${CORSPROXY}${SWIGGY_API}`
     );
     const jsonData = await data.json();
     const restaurants =

@@ -1,12 +1,13 @@
 import StoreRatingIcon from '../images/StoreRatingIcon.svg';
-
+import { Link } from 'react-router-dom';
 const RestoCard = (props) => {
   const {
     restaurant: {
-      info: { name, avgRating, cloudinaryImageId, cuisines, costForTwo },
+      info: { id, name, avgRating, cloudinaryImageId, cuisines, costForTwo },
     },
   } = props;
   return (
+    <Link to={`/restaurant/${id}`}>
     <div className="restaurant-card">
       <div className="restaurant-logo">
         <img
@@ -16,7 +17,7 @@ const RestoCard = (props) => {
       </div>
       <div className="restaurant-info">
         <div className="restaurant-name">{name}</div>
-        <div className="restaurant-cuisines">{cuisines.join(", ")}</div>
+        <div className="restaurant-cuisines">{cuisines?.join(", ")}</div>
         <div
           style={{
             display: "flex",
@@ -32,6 +33,7 @@ const RestoCard = (props) => {
         </div>
       </div>
     </div>
+    </Link>
   );
 };
 
