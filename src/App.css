@@ -46,6 +46,15 @@ display: flex;
     text-decoration: none;
 }
 
+.offline {
+  background-color: #f44336;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
 .restaurant-info {
     padding: 0.3rem 1rem;
 }
@@ -286,5 +295,19 @@ display: flex;
   font-size: 18px;
   color: #555;
 }
+
+.footer-container {
+  background-color: #333;
+  color: #fff;
+  padding: 1px 0 0;
+}
+
+.footer-bottom {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #222;
+  padding: 10px 0;
+}
+
 
 
