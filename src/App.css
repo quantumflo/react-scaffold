@@ -5,6 +5,14 @@
 .body {
     padding: 0 5rem;
     background-color: antiquewhite;
+    min-height: 75vh;
+
+}
+
+.contact {
+  min-height: 65vh; 
+  padding: 5rem 0 0 5rem;
+
 }
 
 .header {
@@ -96,9 +104,9 @@ display: flex;
     color: gold;
 }
   
-  .restaurant-rating img {
+.restaurant-rating img {
     margin-right: 0.3rem; /* Adjust the margin between the image and text */
-  }
+}
 
 .restaurant-cuisines{
     font-size: 0.8rem;
@@ -112,9 +120,6 @@ display: flex;
 .restaurant-costForTwo {
     font-size: 0.8rem;
     color: #777;
-}
-
-.search-container {
 }
 
 .toolbar {  
@@ -135,7 +140,7 @@ display: flex;
     margin: 1rem 0rem 1rem 2rem
   }
 
-  .search-button {
+.search-button {
     background-color: #007BFF;
     color: #fff;
     border: none;
@@ -144,7 +149,7 @@ display: flex;
     cursor: pointer;
     font-size: 16px;
     outline: none;
-  }
+}
 
 .filter-button {
     color: black;
@@ -267,8 +272,6 @@ display: flex;
   font-size: 16px;
   color: #e44d26;
 }
-
-
 
 .resto-menu-info {
   text-align: center;
