@@ -13,6 +13,7 @@
 - Filters:
  filters for sorting restaurants, such as "top-rated" and "clear."
 - Scaffold: Created React scaffold using Parcel build tool. Not created from create-react-app
+- Lazy Loading: Code splitting/ dynamic import for sections like About, Contact us using React lazy
 
 ## Future Updates
 - Lazy Loading of Restaurants:
