@@ -213,6 +213,78 @@ display: flex;
   color: #ffffff;
   border-color: #ffffff;
 }
-  
+
+
+.menu-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.menu-item {
+  width: 15rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.menu-image-container img {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ddd;
+}
+
+.menu-text-container {
+  padding: 16px;
+}
+
+.menu-item-name {
+  margin: 0 0 8px;
+  font-size: 18px;
+}
+
+.menu-category {
+  color: #888;
+}
+
+.menu-price {
+  font-weight: bold;
+  font-size: 16px;
+  color: #e44d26;
+}
+
+
+
+.resto-menu-info {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.resto-menu-name {
+  color: darkgoldenrod;
+  margin: 0 0 12px;
+  font-size: 24px;
+  text-decoration: overline;
+}
+
+.resto-menu-cuisine {
+  margin: 0 0 8px;
+  color: #333;
+}
+
+.resto-menu-cost {
+  font-weight: bold;
+  font-size: 18px;
+  color: #555;
+}
 
 
