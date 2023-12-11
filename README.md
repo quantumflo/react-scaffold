@@ -19,3 +19,7 @@
 - Lazy Loading of Restaurants:
 Efficiently load restaurant data based on the user's scroll position.
 Optimize page performance by fetching and rendering restaurant information dynamically as the user scrolls.
+
+
+## CSS
+- Vanilla CSS
