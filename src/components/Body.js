@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import restoData from "../utils/data/restaurant.json";
 import { CORSPROXY, SWIGGY_API } from "../utils/constants";
-import RestoCard from "./RestoCard";
+import RestoCard, { PromotedCardHOF } from "./RestoCard";
 import SearchBar from "./SearchBar";
 import Shimmer from "./Shimmer";
 import useOnlineStatus from "../utils/hooks/useOnlineStatus";
@@ -10,6 +10,7 @@ import useOnlineStatus from "../utils/hooks/useOnlineStatus";
 const Body = () => {
   const [restaurants, setRestaurants] = useState([]);
   const [filteredRestaurants, setfilteredRestaurants] = useState([]);
+  const PromotedCard = PromotedCardHOF(RestoCard);
 
 
 
@@ -64,7 +65,7 @@ const Body = () => {
         <div className="restaurant-container">
           {/* Index as key is bad practise */}
           {filteredRestaurants.length? filteredRestaurants.map((restaurant, index) => {
-            return <RestoCard key={index} restaurant={restaurant} />;
+            return restaurant?.info?.aggregatedDiscountInfoV3?.header? <PromotedCard key={index} restaurant={restaurant} />: <RestoCard key={index} restaurant={restaurant} />;
           }): <div style={{fontWeight:"bolder"}}>No Restaurants Found</div>}
         </div>
       ) : (
