@@ -38,13 +38,19 @@ body {
  border-radius: 2%;
 }
 
-.footer {
-    display: flex;
-    justify-content: space-between;
-    border: 1px solid black;
-    padding: 0.5rem 0.5rem 0;
-    border-radius: 2%;
-   }
+
+.footer-container {
+  background-color: #333;
+  color: #fff;
+  padding: 1px 0 0;
+}
+
+.footer-bottom {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #222;
+  padding: 10px 0;
+}
 
 .logo-container {
     margin-bottom: 0.4rem;
@@ -253,7 +259,11 @@ display: flex;
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  padding-left: 4rem;
+  padding: 1rem 0 1rem 3rem;
+  display: flex;
+  width: 50vw;
+  margin: 1rem auto;
+  box-shadow: 10px 0 10px rgba(0, 0, 0, 0.1), -10px 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .menu-item {
@@ -320,18 +330,7 @@ display: flex;
   color: #555;
 }
 
-.footer-container {
-  background-color: #333;
-  color: #fff;
-  padding: 1px 0 0;
-}
 
-.footer-bottom {
-  margin-top: 20px;
-  text-align: center;
-  background-color: #222;
-  padding: 10px 0;
-}
 
 
 

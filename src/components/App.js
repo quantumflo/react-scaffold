@@ -3,6 +3,7 @@ import Header from './Header';
 import Footer from './Footer';
 import { Outlet } from 'react-router-dom';
 import useOnlineStatus from '../utils/hooks/useOnlineStatus';
+import "../App.css";
 
 const App = () => {
   const isOnline = useOnlineStatus();
