@@ -1,5 +1,9 @@
-.app {
+html {
+  font-size: 16px;
+}
 
+body {
+  margin: 0;
 }
 
 .body {
@@ -13,6 +17,16 @@
   min-height: 65vh; 
   padding: 5rem 0 0 5rem;
 
+}
+
+.discount {
+  position: absolute;
+  margin: 13rem 0 0 5rem;
+  color: white;
+  background-color: brown;
+  font-weight: 900;
+  font-family: cursive;
+  font-size: small;
 }
 
 .header {
@@ -95,6 +109,11 @@ display: flex;
     font-family: cursive;
     font-size: 1rem;
     font-weight: bold;
+    width: 14rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-wrap: nowrap;
+
 }
 
 .restaurant-rating {
@@ -233,6 +252,7 @@ display: flex;
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  padding-left: 4rem;
 }
 
 .menu-item {
