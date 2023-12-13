@@ -7,6 +7,7 @@ import Error from './src/components/Error';
 import Body from './src/components/Body';
 import RestoMenu from './src/components/RestoMenu';
 import Shimmer from './src/components/Shimmer';
+import Cart from './src/components/Cart';
 
 // import About from './src/components/About';
 // import Contact from './src/components/Contact';
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
         {
             path: "/restaurant/:resId",
             element: <RestoMenu />,
+        },
+        {
+          path: "/cart",
+          element: <Cart />,
         }
       ]
     }

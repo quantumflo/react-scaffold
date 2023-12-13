@@ -4,7 +4,7 @@ import { createSlice } from '@reduxjs/toolkit';
 const cartSlice =  createSlice( {
     name: 'cart',
     initialState: {
-        items: ["a", "b"]
+        items: []
     },
     reducers: {
         addItem: (state, action) => {
@@ -14,8 +14,9 @@ const cartSlice =  createSlice( {
             state.items.pop();
         },
         clear: (state) => {
-            // state.items = []; WONT WORK
+            // state.items = []; WONT WORK because in redux toolkit we need to mutate the state directly
             state.items.length = 0;
+            // return {items:[]};  also works
         }
     }
 } )

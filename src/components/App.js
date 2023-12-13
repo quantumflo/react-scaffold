@@ -11,7 +11,7 @@ const App = () => {
   const isOnline = useOnlineStatus();
 
   return (
-    <Provider route={appStore} >
+    <Provider store={appStore} >
     <div className='app'>
       <div style={isOnline? {backgroundColor:"green", height: "5px"}: {backgroundColor:"red", height: "5px"}}></div>
       <Header />
