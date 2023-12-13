@@ -2,7 +2,7 @@ const RestoMenuItems = ({itemCards}) => {
     return (
       <div className="menu-container">
         {itemCards?.map((item, index) => {
-          const { name, price, category, imageId } = item?.card?.info || {};
+          const { name, defaultPrice, price, category, imageId } = item?.card?.info || {};
           return (
             <div key={index} className="menu-item">
               <div className="menu-image-container">
@@ -14,7 +14,7 @@ const RestoMenuItems = ({itemCards}) => {
               <div className="menu-text-container">
                 <h3 className="menu-item-name">{name}</h3>
                 <p className="menu-category">{category}</p>
-                <p className="menu-price">&#8377;{price / 100}</p>
+                <p className="menu-price">&#8377;{price? price / 100: defaultPrice/100}</p>
               </div>
             </div>
           );

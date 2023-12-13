@@ -1,25 +1,20 @@
 import RestoMenuItems from "./RestoMenuItems";
-import {useState} from 'react';
 
-const RestoCategory = ({ data }) => {
-    const [showContent, setShowContent] = useState(false);
-    const {title, itemCards } = data;
+const RestoCategory = ({ data, showContent, setCategoryIndex }) => {
+    const { title, itemCards } = data;
 
     const onShowContentClick = () => {
-        setShowContent(!showContent);
+        setCategoryIndex()
     }
-
-    console.log(data)
-
 
   return (
     <div className="category-container">
-        <div className="flex justify-between w-6/12 mx-auto mb-4 p-4 shadow-lg">
-            <h1 className="font-bold text-lg">{title}</h1>
+        <div className="flex justify-between w-6/12 mx-auto mb-4 p-4 shadow-lg bg-whitesmoke" onClick={onShowContentClick}>
+            <h1 className="font-bold text-lg">{title } ({itemCards.length})</h1>
 
-      <button className="category-button" onClick={onShowContentClick}>
+      <div className="category-button" >
         {showContent? "⬆️":'⬇️' }
-      </button>
+      </div>
       </div>
 
       {showContent && <RestoMenuItems itemCards={itemCards} /> }
