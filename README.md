@@ -3,7 +3,7 @@
 ## Features
 - **Scaffold:** Created React scaffold using Parcel build tool. Not created from create-react-app
 - **Real-time Swiggy Restaurants:**
- Fetch and display Swiggy restaurant data in real-time.
+ Fetch and display Swiggy restaurant data in real-time using Swiggy API.
 - **Restaurant Menu Page:**
  Dedicated page for each restaurant displaying its menu.
 - **Search Restaurants:**
