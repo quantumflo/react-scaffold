@@ -1,4 +1,4 @@
-# react-scaffold
+# React-scaffold
 
 ## Features
 - **Scaffold:** Created React scaffold using Parcel build tool. Not created from create-react-app
