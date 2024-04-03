@@ -1,7 +1,7 @@
 # react-scaffold
 
 ## Features
-- **Scaffold:** Created React scaffold using Parcel build tool. Not created from create-react-app
+- **Scaffold:** React scaffold using Parcel build tool. Not created from create-react-app
 - **Real-time Swiggy Restaurants:**
  Fetch and display Swiggy restaurant data in real-time using Swiggy API.
 - **Restaurant Menu Page:**
