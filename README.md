@@ -17,4 +17,5 @@
 ## Future Updates
 - Lazy Loading of Restaurants:
 Efficiently load restaurant data based on the user's scroll position.
+Performance:
 Optimize page performance by fetching and rendering restaurant information dynamically as the user scrolls.
